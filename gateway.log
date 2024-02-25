@@ -1,0 +1,9 @@
+1 - 1694000586 - Main program has started 
+2 - 1694000586 - Connection to SQL server established.
+3 - 1694000586 - New table SensorData created.
+4 - 1694000591 - A sensor node has opened a new connection
+5 - 1694000619 - A sensor node has opened a new connection
+6 - 1694000651 - A sensor node has opened a new connection
+7 - 1694000665 - Node timed out - there are now 2 connection(s) left 
+8 - 1694000675 - Node timed out - there are now 1 connection(s) left 
+9 - 1694000678 - Node timed out - there are now 0 connection(s) left 
